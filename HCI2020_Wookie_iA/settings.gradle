@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "HCI2020_Wookie_iA"
